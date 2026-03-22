@@ -45,9 +45,11 @@ cd solar-intelligence-system
 2. Install dependencies
 pip install -r requirements.txt
 3. Run app
-python -m streamlit run app.py
-📊 Model Details
-Model Used: Random Forest Regressor
+python -m streamlit run app.py <br>
+
+📊 Model Details <br>
+
+Model Used: Random Forest Regressor <br>
 
 Evaluation Metrics: <br>
 
@@ -56,7 +58,7 @@ Evaluation Metrics: <br>
 3. R² Score <br>
 
 📸 Screenshots <br>
-
+![Screenshot](WhatsApp Image 2026-03-21 at 00.38.05 (1).jpeg) <br>
 
 🌍 Real-world Impact <br>
 
